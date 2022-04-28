@@ -1,0 +1,8 @@
+header {
+  background-color: aqua; }
+  header nav {
+    text-align: center; }
+  header a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; }
+    header a:hover {
+      color: aqua; }
